@@ -18,6 +18,9 @@ public class CotacaoMain {
 
         CalculoCotacao calculoCotacao = new CalculoCotacao(moeda, cotacaoDolar);
         calculoCotacao.calcularCotacaoMoeda(valorTotalEmDolar);
+
+        //teste update repositorio git
+        
     }
 
 }
